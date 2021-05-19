@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/shree/my_projects/flink_flask/target/scala-2.11/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TransactionReading.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	flink_windowing$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TxnTimeAssigner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	flink_windowing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	flink_windowing$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SpecialMapping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TransactionAggregatorWindow$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TransactionReading$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TransactionAggregatorWindow.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	flink_windowing$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	flink_windowing$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/shree/my_projects/flink_flask/target/scala-2.11/classes.bak[0m
